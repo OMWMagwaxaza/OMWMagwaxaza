@@ -16,9 +16,6 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** and lifelong lea
 - 📊 **Power BI and Tableau**  for advanced dashboarding
 - ☁️ **Google Colab** for cloud-based Python notebooks
 
-  
-
-☁️ Google Colab for cloud-based Python notebooks
 ---
 ## 🌟 Featured Projects
 - 🎵 **Music Sales Insights** – Sales and customer behavior analysis using the Chinook database and SQL in SQLite/Python  
