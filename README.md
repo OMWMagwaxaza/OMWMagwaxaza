@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** and lifelong lea
 ## 🔧 Technologies & Tools that I have used 
 - 💻 Languages: Python, SQL, R
 - 📊 Tools: Excel
-- 🧰 Libraries: Pandas, NumPy, Matplotlib, Seaborn, 
+- 🧰 Libraries: Pandas, NumPy, Matplotlib, Seaborn, nycflights13, sqldf, dplyr and sqlite3
 
 ---
 
